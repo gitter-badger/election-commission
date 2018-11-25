@@ -1,4 +1,7 @@
 # election-commission
+
+[![Join the chat at https://gitter.im/election-commission/Lobby](https://badges.gitter.im/election-commission/Lobby.svg)](https://gitter.im/election-commission/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Fuse: Kafka streams
 
 ###Prerequisites:
